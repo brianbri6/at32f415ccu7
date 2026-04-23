@@ -3,10 +3,10 @@
     {
       "name": "brianb",
       "maintainer": "Brian B",
-      "websiteURL": "https://github.com/REPLACE_WITH_YOUR_ACCOUNT/at32f415ccu7-arduino-core",
+      "websiteURL": "https://github.com/brianbri6/at32f415ccu7",
       "email": "replace@example.com",
       "help": {
-        "online": "https://github.com/REPLACE_WITH_YOUR_ACCOUNT/at32f415ccu7-arduino-core"
+        "online": "https://github.com/brianbri6/at32f415ccu7"
       },
       "platforms": [
         {
@@ -14,7 +14,7 @@
           "architecture": "at32f415",
           "version": "0.1.0",
           "category": "Contributed",
-          "url": "https://github.com/REPLACE_WITH_YOUR_ACCOUNT/at32f415ccu7-arduino-core/releases/download/v0.1.0/at32f415ccu7-arduino-core-0.1.0.zip",
+          "url": "https://github.com/brianbri6/aat32f415ccu7/releases/download/v0.1.0/at32f415ccu7-arduino-core-0.1.0.zip",
           "archiveFileName": "at32f415ccu7-arduino-core-0.1.0.zip",
           "checksum": "SHA-256:5e60ce2452ffd304dc450c15bccdfa1df416660f2e1a7b7f4ef7db4a9e139a01",
           "size": "9523",
