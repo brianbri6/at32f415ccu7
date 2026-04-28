@@ -37,9 +37,9 @@ PB2 pin 20 - ok button
 
 PB3 pin 39 - buzzer
 
-PB1 pin 19 - photocell (analog input)
+PB1 pin 19 - photocell
 
-PB0 pin 18 - input power coming in to ADC
+PB0 pin 18 - input power coming in to MCU ADC (analog input)
 
 PB7 pin 43 - USB power status - low for yes, high for no
 
