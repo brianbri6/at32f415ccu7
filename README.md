@@ -96,3 +96,5 @@ PA3 pin 13 - pin 27
 PA2 pin 12 - pin 28
 
 PA1 pin 11 - pin 29PA0 pin 10 - pin 30
+
+Still need to figure out LM393 for raw 12v voltage readings
