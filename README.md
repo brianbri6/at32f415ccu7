@@ -1,4 +1,4 @@
- Reverese engineering a Konnwei KW206 OBD2 https://www.konnwei.com/product/430.html to read Tesla Model S data from the canbus.
+ Reverse engineering a Konnwei KW206 OBD2 https://www.konnwei.com/product/430.html to read Tesla Model S data from the canbus.
  
  CANBUS packets for Model S/X decoded by Jason Hughes  https://skie.net/ used in the sketch.
 
