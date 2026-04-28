@@ -26,6 +26,7 @@ BOOT0 → QFN48 pin 44 for recovery/boot-mode work if needed.
 
 
 I/O
+
 PB6 pin 42 - down button
 
 PA13 pin 34 - up button
