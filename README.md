@@ -4,9 +4,13 @@
 
 
 
+
+
 MCU PINS
 
 AT32F415
+
+
 
 Programming
 
@@ -17,6 +21,8 @@ SWCLK → PA14 → QFN48 pin 37 (pin3)
 NRST → QFN48 pin 7
 
 BOOT0 → QFN48 pin 44 for recovery/boot-mode work if needed.
+
+
 
 PB6 pin 42 - down button
 
@@ -31,6 +37,8 @@ PB3 pin 39 - buzzer
 PB1 pin 19 - photocell (analog input)
 
 
+
+
 EN25Q64 - eeprom
 
 PB12 pin 25 - CS# pin 1
@@ -43,11 +51,15 @@ PB15 pin 28 - DI (DQ0) pin 5
 
 
 
+
+
 CA-IF1051H - can transceiver
 
 PA12 pin 33 - TXD pin 1
 
 PA11 pin 32 - RXD pin 4
+
+
 
 
 
@@ -64,6 +76,7 @@ PB4 pin 40 - 8 reset lcd
 PC13 pin 2 - pin 34 WR/SCL
 
 PC15 pin 4 - pin 35 RS
+
 
 LCD DATA
 
