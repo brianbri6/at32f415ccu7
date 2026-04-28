@@ -6,10 +6,12 @@
 
 
 
+
+
+AT32F415 MCU
+
+
 MCU PINS
-
-AT32F415
-
 
 
 Programming
@@ -23,7 +25,7 @@ NRST → QFN48 pin 7
 BOOT0 → QFN48 pin 44 for recovery/boot-mode work if needed.
 
 
-
+I/O
 PB6 pin 42 - down button
 
 PA13 pin 34 - up button
