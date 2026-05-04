@@ -3,7 +3,7 @@
  CANBUS packets for Model S/X decoded by Jason Hughes  https://skie.net/ used in the sketch.
 
 
-I use openocd to upload bin to controller. us commands below to upload.
+I use openocd to upload bin to controller. use commands below to upload.
 
 
 
