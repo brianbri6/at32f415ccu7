@@ -3,7 +3,11 @@
  CANBUS packets for Model S/X decoded by Jason Hughes  https://skie.net/ used in the sketch.
 
 
+I use openocd to upload bin to contoller. us commands below to upload.
 
+
+
+openocd -f interface/stlink.cfg -c "transport select swd" -f target/artery/at32f4x.cfg -c "init; reset init; program AT32F415_Tesla_CAN3_Dashboard_v4_OptimizedLCD.ino.bin verify reset exit 0x08000000"
 
 
 
